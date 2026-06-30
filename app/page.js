@@ -28,7 +28,7 @@ export default function Home() {
     <>
       <main className="container mx-auto px-4 py-6">
         <h2 className="text-4xl font-bold mb-4">Welcome to Our Blog</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+        <p> This Project is a Blog project which is build using Next.js and Mysql .</p>
       </main>
       <div className="flex justify-end px-4">
         <input onChange={(e)=>setSearch(e.target.value)} type="text" className="px-4 py-2 border border-gray-300 rounded-md" placeholder="Search..." />

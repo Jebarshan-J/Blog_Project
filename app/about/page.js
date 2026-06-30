@@ -3,7 +3,7 @@ export default function About() {
         <>
             <main className="container mx-auto px-4 py-6">
                 <h2 className="text-4xl font-bold mb-4">About Us</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                <p> This Project is a Blog project which is build using Next.js and Mysql .</p>
             </main>
         </>
     )
