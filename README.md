@@ -1,35 +1,20 @@
-# Blog Management System
+# 📝 Blog Management System
 
-A full-stack blog application built with Next.js and MySQL.
+A full-stack blog application built with **Next.js** and **MySQL** that allows users to browse blog posts, search articles, view detailed posts, and send enquiries through a contact form.
 
-## Features
+---
 
-- Blog listing
-- View individual blog posts
-- Search posts by title and content
-- Contact form
-- MySQL database integration
-- Responsive design
-  
-## Screenshots
+## ✨ Features
 
-### Home Page
+- 📰 View all blog posts
+- 🔍 Search blog posts by title and content
+- 📄 View individual blog details
+- 📬 Contact form with MySQL database
+- 📱 Responsive UI using Tailwind CSS
 
-![Home](images/home.png)
+---
 
-### Search Functionality
-
-![Search](images/search.png)
-
-### Blog Details
-
-![Blog Details](images/blog_detail.png)
-
-### Contact Page
-
-![Contact](images/contact.png)
-
-## Technologies Used
+## 🛠️ Technologies Used
 
 - Next.js
 - React.js
@@ -40,10 +25,32 @@ A full-stack blog application built with Next.js and MySQL.
 - Git
 - GitHub
 
-## Installation
+---
+
+## 📷 Screenshots
+
+### 🏠 Home Page
+
+![Home](images/home.png)
+
+### 🔍 Search Functionality
+
+![Search](images/search.png)
+
+### 📄 Blog Details
+
+![Blog Details](images/blog_detail.png)
+
+### 📬 Contact Page
+
+![Contact](images/contact.png)
+
+---
+
+## 🚀 Installation
 
 ```bash
-git clone https://github.com/Jebarshan-J/Blog_Project
+git clone https://github.com/Jebarshan-J/Blog_Project.git
 
 cd Blog_Project
 
@@ -52,6 +59,8 @@ npm install
 npm run dev
 ```
 
-## Author
+---
 
-Jebarshan J
+## 👨‍💻 Author
+
+**Jebarshan J**
