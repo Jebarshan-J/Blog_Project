@@ -10,6 +10,24 @@ A full-stack blog application built with Next.js and MySQL.
 - Contact form
 - MySQL database integration
 - Responsive design
+  
+## Screenshots
+
+### Home Page
+
+![Home](images/home.png)
+
+### Search Functionality
+
+![Search](images/search.png)
+
+### Blog Details
+
+![Blog Details](images/blog_detail.png)
+
+### Contact Page
+
+![Contact](images/contact.png)
 
 ## Technologies Used
 
